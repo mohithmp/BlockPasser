@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{6877705C-FBD9-0C4F-5AFB-6FB431E5D39D}|">
+  <MonoDevelop.Ide.ItemProperties.Unity.PackageManagerUI.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
